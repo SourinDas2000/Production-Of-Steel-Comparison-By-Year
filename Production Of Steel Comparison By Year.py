@@ -9,7 +9,7 @@ plt.style.use("fivethirtyeight")
 
 # Data :
     
-data = pd.read_excel("/storage/emulated/0/Python Projects/Matplotlib/Matplotlib Line Chart/Production Of Steel Comparison/Production Of Steel.xlsx")
+data = pd.read_excel("Production Of Steel.xlsx")
 
 
 # Plotting data :
